@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# !HOME 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: INFINITE LOOPERS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: NEHAL NOURINE - GOVT.MODEL ENGINEERING COLLEGE
+- Member 2: DEVATHEERTHA - GOVT.MODEL ENGINEERING COLLEGE
+- Member 3: AMISHA SHANEY - GOVT.MODEL ENGINEERING COLLEGE
 
 ### Hosted Project Link
 [mention your project hosted project link here]
